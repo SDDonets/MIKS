@@ -1,2 +1,4 @@
 # MIKS
-Variant: 11 IDE: VS Code Language: Python Database: SQLite
+| Variant | IDE | Language | Database |
+| ------------- |:-------------:|-------------:|-------------:|
+| 11 | VS Code | Python | SQLite |
